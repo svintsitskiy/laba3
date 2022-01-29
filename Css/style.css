@@ -1,0 +1,38 @@
+h1{
+background-color:#5F9EA0;
+text-align: center;
+
+}
+h2{
+background-color:#5F9EA0;
+text-align: center;
+
+}
+hr {
+background-color: green;
+border-style: none;
+height: 6px;
+border-style:double;
+width:35%;
+}
+body{
+  background-color:#2F4F4F;
+  font-family: Snell Roundhand, cursive;
+  color: green;
+}
+p2{color: yellow;}
+.foto:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.zaholovok:hover {
+  background:#53ea93;
+}
+p3{
+  color: black;
+}
+.tect{
+  color: red;
+}
